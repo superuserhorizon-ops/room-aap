@@ -1,0 +1,2 @@
+{ "expo": { "name": "Rooms", "slug": "rooms", "version": "1.0.0", "orientation": "portrait", "userInterfaceStyle": "automatic",
+  "android": { "package": "com.rooms.tasks" }, "ios": { "bundleIdentifier": "com.rooms.tasks" } } }
